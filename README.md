@@ -1,6 +1,7 @@
 It will read data from CSV file and store into database.
 # CSV File in Storage Folder
 
+## Built tool we used - Maven
 ## Required Dependency for this repository : 
 ## Built With
 
@@ -11,5 +12,4 @@ It will read data from CSV file and store into database.
 * lombok
 * opencsv
 
-## Built tool we used - Maven
 
