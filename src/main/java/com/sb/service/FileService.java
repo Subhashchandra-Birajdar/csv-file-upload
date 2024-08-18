@@ -19,7 +19,7 @@ public class FileService {
 
     //take input file part convert and save into db
 //define the path
-    private final String FIlE_PATH = "H:\\storage\\";
+    private final String FIlE_PATH = "H:\\upload-csv-file\\storage\\";
 
     @Autowired
     private FileRepository fileRepository;
