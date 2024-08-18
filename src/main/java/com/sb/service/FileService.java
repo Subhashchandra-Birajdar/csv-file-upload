@@ -29,7 +29,9 @@ public class FileService {
 
         List<String[]> rows = reader.readAll();
         List<Files> filesList = new ArrayList<>();
+
         for (String[] row : rows) {
+
             System.out.println(row[0] + ", " + row[1] + "," + row[2] + row[3]);
 
             Files files = new Files();
